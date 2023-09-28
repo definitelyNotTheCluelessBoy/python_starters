@@ -1,0 +1,10 @@
+Roman;Monika;7
+Roman;Adam;1
+Roman;Lucia;10
+Roman;Jana;2
+Michal;Jana;10
+Monika;Adam;1
+Monika;Jana;5
+Lucia;Monika;1
+Katka;Lucia;5
+Katka;Monika;1

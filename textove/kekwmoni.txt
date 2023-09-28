@@ -1,0 +1,10 @@
+6
+2
+Fairy Dark
+Electric
+Flying Fighting
+Steel Fire
+Grass Ground
+Psychic Electric
+Bug Electric
+Dark Flying
